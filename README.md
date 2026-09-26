@@ -174,4 +174,4 @@ cd vision-based-pipeline-inspection-using-YOLO
 **Run the Application**
 
 - streamlit run app.py
->>>>>>> df119411a73adc1ff7332f6fdca6d8ecf6190d93
+
